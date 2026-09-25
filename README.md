@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-morrissey&show_icons=true&locale=en" alt="patrick-morrissey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-morrissey&" alt="patrick-morrissey" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patrick-morrissey&" alt="patrick-morrissey" /></p> -->
